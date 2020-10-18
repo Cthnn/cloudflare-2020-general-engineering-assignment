@@ -1,0 +1,6 @@
+name = "cloudflare-geneng"
+type = "javascript"
+account_id = "6ceecbe9c73df8327ea1e218afa0575b"
+workers_dev = true
+route = ""
+zone_id = ""
