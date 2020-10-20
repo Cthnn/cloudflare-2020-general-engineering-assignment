@@ -2,7 +2,7 @@ addEventListener('fetch', event => {
   event.respondWith(handleRequest(event.request))
 })
 const links = [
-  { 'name': 'My Professional Website', 'url': 'https://https://cthnn.github.io/' },
+  { 'name': 'My Professional Website', 'url': 'https://cthnn.github.io/' },
   { 'name': 'My Favorite Project', 'url': 'https://github.com/Cthnn/VIP-Autonomous-Car' },
   { 'name': 'A Link to my Favorite Song', 'url': 'https://www.youtube.com/watch?v=dQw4w9WgXcQ' }
 ]
